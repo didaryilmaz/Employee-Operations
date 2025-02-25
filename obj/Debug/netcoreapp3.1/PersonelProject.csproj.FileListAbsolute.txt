@@ -1,0 +1,13 @@
+/Users/didaryilmaz/Documents/GitHub/Inheritance/obj/Debug/netcoreapp3.1/PersonelProject.csproj.AssemblyReference.cache
+/Users/didaryilmaz/Documents/GitHub/Inheritance/obj/Debug/netcoreapp3.1/PersonelProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/didaryilmaz/Documents/GitHub/Inheritance/obj/Debug/netcoreapp3.1/PersonelProject.AssemblyInfoInputs.cache
+/Users/didaryilmaz/Documents/GitHub/Inheritance/obj/Debug/netcoreapp3.1/PersonelProject.AssemblyInfo.cs
+/Users/didaryilmaz/Documents/GitHub/Inheritance/obj/Debug/netcoreapp3.1/PersonelProject.csproj.CoreCompileInputs.cache
+/Users/didaryilmaz/Documents/GitHub/Inheritance/bin/Debug/netcoreapp3.1/PersonelProject.deps.json
+/Users/didaryilmaz/Documents/GitHub/Inheritance/bin/Debug/netcoreapp3.1/PersonelProject.runtimeconfig.json
+/Users/didaryilmaz/Documents/GitHub/Inheritance/bin/Debug/netcoreapp3.1/PersonelProject.runtimeconfig.dev.json
+/Users/didaryilmaz/Documents/GitHub/Inheritance/bin/Debug/netcoreapp3.1/PersonelProject.dll
+/Users/didaryilmaz/Documents/GitHub/Inheritance/bin/Debug/netcoreapp3.1/PersonelProject.pdb
+/Users/didaryilmaz/Documents/GitHub/Inheritance/obj/Debug/netcoreapp3.1/PersonelProject.dll
+/Users/didaryilmaz/Documents/GitHub/Inheritance/obj/Debug/netcoreapp3.1/PersonelProject.pdb
+/Users/didaryilmaz/Documents/GitHub/Inheritance/obj/Debug/netcoreapp3.1/PersonelProject.genruntimeconfig.cache

@@ -1,7 +1,7 @@
 ﻿using System;
 namespace PersonelProject
 {
-    abstract class Personel
+    public abstract class Personel
     {
         public string FirstName { get; set; }
         public string Surname { get; set; }

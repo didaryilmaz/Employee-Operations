@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/didaryilmaz/Projects/PersonelPorject/PersonelPorject/PersonelProject.csproj": {}
+    "/Users/didaryilmaz/Documents/GitHub/Inheritance/PersonelProject.csproj": {}
   },
   "projects": {
-    "/Users/didaryilmaz/Projects/PersonelPorject/PersonelPorject/PersonelProject.csproj": {
+    "/Users/didaryilmaz/Documents/GitHub/Inheritance/PersonelProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/didaryilmaz/Projects/PersonelPorject/PersonelPorject/PersonelProject.csproj",
+        "projectUniqueName": "/Users/didaryilmaz/Documents/GitHub/Inheritance/PersonelProject.csproj",
         "projectName": "PersonelProject",
-        "projectPath": "/Users/didaryilmaz/Projects/PersonelPorject/PersonelPorject/PersonelProject.csproj",
+        "projectPath": "/Users/didaryilmaz/Documents/GitHub/Inheritance/PersonelProject.csproj",
         "packagesPath": "/Users/didaryilmaz/.nuget/packages/",
-        "outputPath": "/Users/didaryilmaz/Projects/PersonelPorject/PersonelPorject/obj/",
+        "outputPath": "/Users/didaryilmaz/Documents/GitHub/Inheritance/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/didaryilmaz/.config/NuGet/NuGet.Config"

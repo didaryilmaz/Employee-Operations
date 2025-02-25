@@ -1,7 +1,7 @@
 ﻿using System;
 namespace PersonelProject
 {
-    class TamZamanliPersonel : Personel
+    public class TamZamanliPersonel : Personel
     {
         public int TabanUcret { get; set; }
 
@@ -32,5 +32,6 @@ namespace PersonelProject
         {
             Console.WriteLine(FirstName + " " + Surname + " " + Maas);
         }
+        
     }
 }
